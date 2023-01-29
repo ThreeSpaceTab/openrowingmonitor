@@ -90,6 +90,12 @@ export default {
     // PLEASE NOTE: Increasing this number decreases your rowed meters
     magicConstant: 2.8
   },
+  Erg650W: {
+    NumOfImpulsesPerRevolution: 2,
+    dragFactor: 30000,
+    FlywheelInertia: 0.72, 
+    MagicConstant: 3.0
+},
 
   // Sportstech WRX700
   WRX700: {
